@@ -27,3 +27,11 @@ MEV-Share has a deployment on the Goerli testnet. The following links provide ac
 
 - SSE: [https://mev-share-goerli.flashbots.net](https://mev-share-goerli.flashbots.net)
 - Relay: [https://relay-goerli.flashbots.net](https://relay-goerli.flashbots.net)
+
+
+# SUAVE 
+
+## Video Tutorial 
+
+
+  - [SUAVE smart contract programming model: TEE-based smart contracts for block building - Andrew Miller](https://www.youtube.com/watch?v=DhsDFKnHPa0&ab_channel=Flashbots)
