@@ -35,5 +35,8 @@ MEV-Share has a deployment on the Goerli testnet. The following links provide ac
 
 
   - [SUAVE smart contract programming model: TEE-based smart contracts for block building - Andrew Miller](https://www.youtube.com/watch?v=DhsDFKnHPa0&ab_channel=Flashbots)
-##  MEV-Boost Dashboard
-    [dashboard](https://mevboost.pics/)
+
+## MEV-Boost Dashboard
+
+- Dashboard: [https://mevboost.pics](https://mevboost.pics)
+   
