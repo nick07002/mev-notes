@@ -14,3 +14,6 @@ by Blockman codes
 ## Swap tokens on Uniswap V3 with code, programmatically | A beginners guide with EthersJs & JavaScript
 by Blockman codes
 `https://youtu.be/vXu5GeLP6A8`
+## Flash Loan Arbitrage | Aave Flash Loan Tutorial
+
+`https://youtu.be/PtMs8FZJhkU`
